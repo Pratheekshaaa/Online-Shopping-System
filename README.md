@@ -1,8 +1,9 @@
 # online-shopping-with-advanced-admin-page
 
 
-
-online shopping system with both admin and user layouts.
+Online shopping system with both admin and user layouts.
+To login to database backend click the link below
+http://localhost/online-shopping-system/
 
 admin login details  Email=admin@gmail.com and Password=123456789.
 
