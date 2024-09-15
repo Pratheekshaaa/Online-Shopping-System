@@ -3,7 +3,7 @@
 
 Online shopping system with both admin and user layouts.
 To login to database backend click the link below
-“http://localhost/phpmyadmin/”
+http://localhost/phpmyadmin/
 
 admin login details  Email=admin@gmail.com and Password=123456789.
 
