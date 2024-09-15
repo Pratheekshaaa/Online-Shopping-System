@@ -2,6 +2,7 @@
 
 
 Online shopping system with both admin and user layouts.
+
 To login to database backend click the link below
 http://localhost/phpmyadmin/
 
